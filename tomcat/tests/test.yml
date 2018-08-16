@@ -1,6 +1,6 @@
 ---
 - hosts: all
-  remote_user: babu
+  remote_user: node4user
   become: yes
   roles:
     - tomcat
