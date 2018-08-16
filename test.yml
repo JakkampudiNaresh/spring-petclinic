@@ -3,4 +3,4 @@
   remote_user: node4user
   become: yes
   roles:
-    - dharma.tomcat
+    - tomcat
